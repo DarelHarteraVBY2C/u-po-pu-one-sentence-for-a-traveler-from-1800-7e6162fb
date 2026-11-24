@@ -1,0 +1,14 @@
+Bangun entry bounty make.fun (one-liner, GRATIS, akun @jeannaldtzy / GitHub DarelHarteraVBY2C). JANGAN pakai API AI eksternal apa pun — semua kerja di dalam Muse saja (kode bounty sensitif).
+
+Bounty: u-po-pu-one-sentence-for-a-traveler-from-1800-7e6162fb — "One Sentence for a Traveler from 1800", hadiah $2, tutup 25 Nov 2026 02:25 WIB. Entry: SATU kalimat (max 200 karakter, verifikasi batas pastinya di kit) yang menjelaskan internet modern kepada penjelajah waktu dari tahun 1800 — tanpa kata yang diciptakan setelah zamannya, bukan daftar fitur, hanya gambaran yang bisa ia pegang.
+Kit: ~/workspace/makefun/u-po-pu-one-sentence-for-a-traveler-from-1800-7e6162fb-kit/ — baca competition.yaml + RULES.txt + judge brief. Workdir: ~/workspace/makefun/u-po-pu-one-sentence-for-a-traveler-from-1800-7e6162fb/ (buat bila belum ada).
+
+Kerjakan:
+1. Konfirmasi dari competition.yaml: entryFee = 0 (gratis) dan cara entry dibaca (stdout main.ts atau file) + batas karakter. Laporkan nilainya.
+2. Tulis SATU kalimat orisinal yang kuat untuk juri — hati-hati: hindari kata/konsep yang jelas-jelas baru setelah 1800 (mis. "internet", "komputer", "listrik" dipakai seperlunya sesuai brief juri di kit; baca judge brief dulu dan patuhi). Tulis main.ts dalam DUA langkah tulis terpisah yang asli: langkah 1 tulis file lengkap; langkah 2 (pesan terpisah) edit sungguhan yang memperbaiki/menyempurnakan kalimat itu — isi dari kedua langkah HARUS bertahan di byte final file (bukan edit kosmetik). Entry harus deterministik: jalankan main.ts 2x dengan node, output byte-identik.
+3. README.md dengan tepat 3 badge live: https://make.fun/badge/u-po-pu-one-sentence-for-a-traveler-from-1800-7e6162fb.svg , https://make.fun/badge/u-po-pu-one-sentence-for-a-traveler-from-1800-7e6162fb/DarelHarteraVBY2C/u-po-pu-one-sentence-for-a-traveler-from-1800-7e6162fb/rank.svg , https://make.fun/badge/u-po-pu-one-sentence-for-a-traveler-from-1800-7e6162fb/DarelHarteraVBY2C/u-po-pu-one-sentence-for-a-traveler-from-1800-7e6162fb/reward.svg — plus link https://make.fun/bounty/u-po-pu-one-sentence-for-a-traveler-from-1800-7e6162fb
+4. LICENSE (MIT).
+5. Simpan SELURUH teks pesan tugas ini verbatim (apa adanya) ke file u-po-pu-one-sentence-for-a-traveler-from-1800-7e6162fb-prompt-verbatim.txt di workdir.
+6. JANGAN buat repo GitHub, JANGAN push, JANGAN jalankan makefun check/submit (itu tugas induk).
+
+Laporkan kembali: teks entry + jumlah karakter, fee terkonfirmasi, file yang dibuat, apakah transcripts_required menurut competition.yaml.
